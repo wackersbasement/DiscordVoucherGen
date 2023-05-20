@@ -15,8 +15,8 @@ To get started with DiscordVoucherGen, follow these simple steps:
 
 DiscordVoucherGen aims for you to have your experience as worth of your time as possible, so we have some features we try to keep improving and keep up-to-date at all times:
 
-- **Promo Code Creation: ** We want you to be able to create codes at all times with the generator.
-- **Layout: ** We want you at all times to not be overwhelmed by the generator, and we will try to make it as simple as possible.
+- **Promo Code Creation:** We want you to be able to create codes at all times with the generator.
+- **Layout:** We want you at all times to not be overwhelmed by the generator, and we will try to make it as simple as possible.
 > **Note**: I have my own life, so this repository won't being created so often since I have school.
 ## Contributing
 
